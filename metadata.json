@@ -1,0 +1,6 @@
+{
+  "name": "OEM Yadak",
+  "description": "Specialized engine and gearbox parts store website featuring premium parts catalog search, compatibility checker, custom part request form, and shopping cart checkouts in multiple languages and currencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
